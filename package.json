@@ -1,0 +1,12 @@
+{
+  "name": "cloudmersivejs",
+  "version": "0.0.0",
+  "description": "Cloudmersive Virus Scan JavaScript (Browser) Client",
+  "main": "main.js",
+  "author": {
+    "name": "Andrew"
+  },
+  "dependencies": {
+    "cloudmersive-virus-api-client": "^1.1.2"
+  }
+}
