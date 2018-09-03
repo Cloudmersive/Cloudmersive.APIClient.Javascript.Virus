@@ -1,0 +1,18 @@
+{
+  "name": "cloudmersivejs",
+  "version": "0.0.0",
+  "description": "Cloudmersive JavaScript (Browser) SDK",
+  "main": "main.js",
+  "author": {
+    "name": "Andrew"
+  },
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^1.2.7",
+    "cloudmersive-image-api-client": "^1.1.4",
+    "cloudmersive-validate-api-client": "^1.1.2",
+    "cloudmersive-nlp-api-client": "^1.1.1",
+    "cloudmersive-virus-api-client": "^1.1.2",
+    "cloudmersive-ocr-api-client": "^1.1.3",
+    "cloudmersive-barcodeapi-client": "^1.1.2"
+  }
+}
